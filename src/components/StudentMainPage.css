@@ -1,0 +1,38 @@
+.student-main-page {
+	display: flex;
+	border-bottom: 2px solid rgb(237, 237, 237);
+	padding-bottom: 30px;
+	padding-top: 10px;
+}
+.student-img-row {
+	margin: 0 !important;
+	width: -webkit-fill-available;
+}
+.student-icon {
+	padding-right: 30px;
+}
+.information span {
+	display: block;
+}
+.header_name {
+	font-weight: bold;
+	font-size: 180%;
+}
+.normal_details {
+	/* padding-left: 20px; */
+	line-height: 1.6;
+	/* font-weight: light; */
+}
+img {
+	object-fit: contain;
+	border-radius: 50%;
+	border: 1px outset;
+	width: 150px;
+	height: 150px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	margin-right: 10px;
+}
+/* .plus_icon {
+	padding-left: 30px;
+} */

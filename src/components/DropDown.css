@@ -1,0 +1,18 @@
+.dropdown_data {
+	padding-left: 15rem;
+}
+#tag-input {
+	margin-top: 20px;
+	border: none;
+	border-bottom: 1px solid rgba(237, 237, 237);
+}
+.add-button {
+	display: flex;
+}
+.add-tag-input {
+	background-color: rgba(237, 237, 237);
+	color: black;
+	border: none;
+	margin-top: 10px;
+	pointer-events: none;
+}
